@@ -4,4 +4,5 @@ All Arduino code was uploaded to a NodeMCU ESP8266-12E Development Board and int
 
 ### An Idea of What the Blynk Interface Looked Like:
 This screenshot was taken after I dissassmbled the entire Blynk system so it doesn't look entirely like the working version:
-![img_1406](https://cloud.githubusercontent.com/assets/24536303/25608457/b7e524ac-2ecf-11e7-9058-a9f0e88ad1f3.PNG height=250)
+![img_1406](https://cloud.githubusercontent.com/assets/24536303/25608457/b7e524ac-2ecf-11e7-9058-a9f0e88ad1f3.PNG)
+<img src="https://cloud.githubusercontent.com/assets/24536303/25608457/b7e524ac-2ecf-11e7-9058-a9f0e88ad1f3.PNG" width="200" />
